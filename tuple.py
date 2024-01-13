@@ -17,3 +17,4 @@ print(type(one_element_correct_tuple))
 """Selecting elements with specific orders """
 print(my_tuple[::2]) # Print all the elements starting with 0 - last index with jum step of 2
 
+# writing a comment
