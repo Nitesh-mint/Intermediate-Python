@@ -55,3 +55,12 @@ def my_custom_filter(number):
 filtered_list_with_custom_function =  list(filter(my_custom_filter, list_to_filer))
 print(filtered_list_with_custom_function)
 
+
+"""Sorting the list using sort() and sorted() function
+--- sorted() : sorts the list without modifying the list in-place. New instance of the list is created
+--- sort() : sorts the list modifying the list in-place. Only works with the list.
+"""
+
+
+
+
