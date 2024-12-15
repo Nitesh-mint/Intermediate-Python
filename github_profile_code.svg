@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1000" height="1000" font-size="16px" viewBox="0 0 1000 1000">
+    <style>
+        .container {
+            display: flex;
+            flex-direction:row-reverse;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+    <image href="my_close1.svg" x="500" y="0" width="500px" height="550px" />
+
+    <image href="github_profile.svg" x="0" y="0" width="500px" height="1000px" />
+</svg>
